@@ -1,6 +1,6 @@
 <template>
     <div class="contact">
-        <h3>What do you want to tell me?</h3>
+        <h2>What do you want to tell me?</h2>
         <label for="name">Your name</label>
         <input type="text">
         <label for="email">Your email</label>
